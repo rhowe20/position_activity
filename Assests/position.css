@@ -1,0 +1,7 @@
+.box_1 {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background: #999999;
+    border: 2px solid black;
+  }
